@@ -17,5 +17,8 @@ The following files were used:
 `new_york_city.csv`
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+_Chicago: https://motivateco.com/_
+_New York City: https://divvybikes.com/system-data_
+_Washington: https://capitalbikeshare.com/system-data_
+
 
