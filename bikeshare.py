@@ -33,7 +33,7 @@ def get_filters():
         else:
             print("Invalid Input. Choose Either January, February, March, April, May, June, or 'All' for No Filter.")
     
-    # Get user input for day of week
+    # Get user input for day of week - documentation for refactor branch
     days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'all']
     while True:
         day = input("\nWhich Day Would You Like to Filter By (Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday) or 'All' for No Filter? \n").lower()
