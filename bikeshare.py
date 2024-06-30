@@ -16,7 +16,7 @@ def get_filters():
     """
     print("\nHello! Let's explore some USA bikeshare data!\n")
     
-    # Get user input for city
+    # Get user input for city - documentation for refactor branch
     while True:
         city = input("Please Choose a City You'd Like to Analyze: Chicago, New York City, Washington ").lower()
         if city in CITY_DATA:
