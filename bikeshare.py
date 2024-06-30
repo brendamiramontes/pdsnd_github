@@ -24,7 +24,7 @@ def get_filters():
         else:
             print("Invalid Input. Please Enter Either Chicago, New York City, or Washington")
     
-    # Get user input for month
+    # Get user input for month - documentation for refactor branch 
     months = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
     while True:
         month = input("\nWhich Month Would You Like to Filter by (January, February, March, April, May, June) or 'All' for No Filter? \n").lower()
